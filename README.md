@@ -1,81 +1,88 @@
 # 🌐 CCNA-LAB
 
-> Hands-on Cisco CCNA networking labs designed to build practical skills in routing, switching, WAN technologies, and network troubleshooting.
+<div align="center">
 
-💻 **Cybersecurity Student** 🌱 **Learning Ethical Hacking & Penetration Testing** 🌐 **CCNA | Linux** 📍 **Nepal**
+# 🚀 Cisco CCNA Packet Tracer Labs
+
+### Hands-on networking labs for learning Routing, Switching, WAN, and Troubleshooting
+
+![Cisco](https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco)
+![Packet Tracer](https://img.shields.io/badge/Packet-Tracer-orange?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking-Labs-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+</div>
+
+---
+
+## 👨‍💻 About
+
+Hello 👋, I'm **Hiran Rajbanshi**
+
+💻 Cybersecurity Student  
+🌱 Learning Ethical Hacking & Penetration Testing  
+🌐 CCNA | Networking | Linux  
+📍 Nepal
+
+This repository contains my practical **Cisco CCNA Packet Tracer Labs** designed to improve networking skills through hands-on practice.
 
 ---
 
 # 🛠 Skills
 
+- Cisco Networking
+- IP Addressing & Subnetting
+- Routing & Switching
 - Linux
-- Networking
-- C Programming
-- Git & GitHub
-- Nmap
 - Wireshark
+- Nmap
+- Network Troubleshooting
+- Git & GitHub
 
 ---
 
 # 🖥 Operating Systems
 
-![Kali Linux](https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 # 🌐 Networking
 
-![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/NMAP-00457C?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge)
 
 ---
 
-# 🔐 Cybersecurity
+# 📚 CCNA Topics Covered
 
-![Burp Suite](https://img.shields.io/badge/BURP_SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/METASPLOIT-2E5EAA?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
-![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-
----
-
-# 💻 Programming
-
-![C](https://img.shields.io/badge/C-5C6BC0?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
----
-
-# 🔧 CCNA Topics Covered
-
-### Routing
+## 🔀 Routing
+- Static Routing
 - RIP
 - EIGRP
 - OSPF
 - Multi-Area OSPF
-- Static Routing
 
-### Switching
+## 🔄 Switching
 - VLAN
 - Inter-VLAN Routing
 - Router-on-a-Stick
 - STP
 - SVI
 
-### WAN
+## 🌍 WAN
 - PPP
 - Frame Relay
 
-### Services
+## ⚙ Services
 - DHCP
 - NAT
 
-### Troubleshooting
+## 🔧 Troubleshooting
 - OSPF Troubleshooting
 - EIGRP Troubleshooting
 - PPP Troubleshooting
@@ -83,11 +90,50 @@
 
 ---
 
-## 👨‍💻 Author
+# 📂 Repository Structure
 
-**Hiran Rajbanshi**  
-🎓 Diploma in ICT Student  
-🌐 Aspiring Network Engineer  
-🔐 Future Cybersecurity Professional
+```bash
+CCNA-LAB/
+│
+├── Routing/
+│   ├── RIP
+│   ├── EIGRP
+│   ├── OSPF
+│   └── Multi-Area OSPF
+│
+├── Switching/
+│   ├── VLAN
+│   ├── STP
+│   ├── SVI
+│   └── Router-on-a-Stick
+│
+├── WAN/
+│   ├── PPP
+│   └── Frame Relay
+│
+├── Services/
+│   ├── DHCP
+│   └── NAT
+│
+└── Troubleshooting/
+```
 
-⭐ If you like this repository, consider giving it a star!
+---
+
+# 🎯 Learning Goals
+
+✅ Build practical networking skills  
+✅ Master Cisco routing and switching  
+✅ Learn network troubleshooting  
+✅ Prepare for Cisco CCNA certification  
+✅ Build a professional networking portfolio
+
+---
+
+<div align="center">
+
+### ⭐ If you like this repository, don't forget to star it ⭐
+
+**Made with ❤️ by Hiran Rajbanshi**
+
+</div>
